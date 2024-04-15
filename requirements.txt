@@ -1,0 +1,8 @@
+#insert python library 
+chromadb
+langchain
+streamlit
+python-dotenv
+sentence-transformers
+openai
+langchain-community
